@@ -1,0 +1,3 @@
+/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/CMakeFiles/mmn14_project.dir

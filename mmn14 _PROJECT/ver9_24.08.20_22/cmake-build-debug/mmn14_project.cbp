@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mmn14_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mmn14_project">
+				<Option output="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/mmn14_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 mmn14_project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mmn14_project/fast">
+				<Option output="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/mmn14_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 mmn14_project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/HOPE/Environment/CLion/mmn14_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/data.h">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/errors.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/first_read.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/main.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/memory_map.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/second_read.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/symbol_table.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/word_fill.c">
+			<Option target="mmn14_project"/>
+		</Unit>
+		<Unit filename="/Users/HOPE/Environment/CLion/mmn14_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

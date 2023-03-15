@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/HOPE/Environment/CLion/mmn14_project/data.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+
+/Users/HOPE/Environment/CLion/mmn14_project/symbol_table.c
+data.h
+/Users/HOPE/Environment/CLion/mmn14_project/data.h
+
