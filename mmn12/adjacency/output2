@@ -1,0 +1,61 @@
+
+Please enter a list values for matrix. Size martrix is 15*15.
+Values can be 0 or 1.
+Matrix is full.
+    |   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+   _|   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _
+   0|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   1|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   2|   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0
+   3|   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   4|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   5|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   6|   0   0   0   0   0   0   0   0   1   1   0   0   0   1   0
+   7|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   8|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+   9|   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0
+  10|   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0
+  11|   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0
+  12|   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  13|   0   0   0   1   0   0   0   1   0   0   1   0   0   0   0
+  14|   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 6 to node 10 a path exists
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 8 to node 4 a path exists
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 14 to node 4 a path exists
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 9 to node 12 a path exists
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 10 to node 0 a path doesn't exist
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 5 to node 12 a path doesn't exist
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 12 to node 5 a path doesn't exist
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+From node 7 to node 12 a path doesn't exist
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+Error: incorrect indexes.From node 150 to node 0 a path doesn't exist
+
+Please enter two indexes of nodes. 
+It must be numbers from 0 to 15. For exit enter -1, -1.
+Error: incorrect indexes.From node -1 to node 5 a path doesn't exist
